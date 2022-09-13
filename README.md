@@ -31,3 +31,25 @@ Fuente: Desafío Latam
 3. Crear un enrutador que incluya 2 rutas correspondientes a las vistas __Home__ y __Contacto__ __(4 Puntos)__
 
 😊¡Mucho éxito!
+
+## Solución
+
+1. Descargar el proyecto.
+
+2. Desde la terminal, posicionarse sobre la carpeta del proyecto y lanzar el siguiente comando:
+
+```yarn install```
+
+3. Al terminal la instalación de los módulos del proyecto, levantar servidor con el siguiente comando:
+
+```yarn dev```
+
+4. Cuando el server ya se encuentre arriba, ingresar al navegador y validar sitio en la siguiente URL:
+
+```http://127.0.0.1:5173/```
+
+## Sitio desplegado en Netlify
+
+__URL:__
+
+https://happycake.netlify.app/
