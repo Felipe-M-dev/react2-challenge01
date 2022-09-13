@@ -11,13 +11,13 @@ En este desafío deberás crear una aplicación React y utilizar React Router pa
 A continuación, te mostramos imágenes sobre cómo deberá verse la aplicación:
 
 <p align="center">
-  <img src="https://github.com/Felipe-M-dev/React-challenge-03/blob/main/public/01.png?raw=true?raw=true" alt="Imagen 01"><br>
+  <img src="https://github.com/Felipe-M-dev/react2-challenge01/blob/main/public/01.png?raw=true?raw=true" alt="Imagen 01"><br>
 Imagen 1. Vista Home<br>
 Fuente: Desafío Latam
 </p>
 
 <p align="center">
-  <img src="https://github.com/Felipe-M-dev/React-challenge-03/blob/main/public/02.png?raw=true?raw=true" alt="Imagen 02"><br>
+  <img src="https://github.com/Felipe-M-dev/react2-challenge01/blob/main/public/02.png?raw=true?raw=true" alt="Imagen 02"><br>
 Imagen 1. Vista Contactos<br>
 Fuente: Desafío Latam
 </p>
